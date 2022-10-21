@@ -16,3 +16,4 @@ install:
 build_script:
   - chmod +x gradlew
   - ./gradlew test -Dselenide.headless=true --info
+[![Build status](https://ci.appveyor.com/api/projects/status/8rrmto7kk63t8385/branch/main?svg=true)](https://ci.appveyor.com/project/UliaF80/selenidkarta/branch/main)
